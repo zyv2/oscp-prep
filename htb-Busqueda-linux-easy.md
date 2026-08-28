@@ -328,3 +328,5 @@ svc@busqueda:/dev/shm$ sudo /usr/bin/python3 /opt/scripts/system-checkup.py full
 
 We get a root shell!
 ![](pics/Pasted%20image%2020260827121439.png)
+
+![](pics/Pasted%20image%2020260828211657.png)

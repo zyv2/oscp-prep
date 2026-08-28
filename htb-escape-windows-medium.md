@@ -383,3 +383,8 @@ evil-winrm -i 10.129.228.253 -u administrator@sequel.htb -H 'a52f78e4c751e5f5e17
 ```
 We get the flag
 ![](pics/Pasted%20image%2020260826154319.png)
+
+
+
+![](pics/Pasted%20image%2020260828212528.png)
+

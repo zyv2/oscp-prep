@@ -245,3 +245,6 @@ Before you run the script make sure that your netcat is setup with the correct p
 Finally you should be left with a root shell !
 ## flag 2
 ![](pics/Pasted%20image%2020260826231340.png)
+
+
+![](pics/Pasted%20image%2020260828212603.png)
