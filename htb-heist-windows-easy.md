@@ -80,7 +80,8 @@ But I do not have a username....So I tried the users `rout3r` and `admin` as a s
 ![](pics/Pasted%20image%2020260829235308.png)
 ## Found the user
 
-By reading this messages I knew it got him 
+By reading this messages I knew it, got him.
+
 ![](pics/Pasted%20image%2020260829235212.png)
 
 I tried via netexec:
